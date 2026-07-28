@@ -69,7 +69,7 @@ O campo deve ser preenchido sempre em minutos:
 
 Os formatos como 2h ou 30m são exclusivos dos comentários, então sempre preencha o campo em minutos.
 
-### Métricas disponíveis
+## Métricas disponíveis
 ### Visão geral
 <img width="1858" height="880" alt="image" src="https://github.com/user-attachments/assets/56aaf8b3-1a5d-4a30-af37-07224294f12d" />
 - Issues totais do 2° ano
