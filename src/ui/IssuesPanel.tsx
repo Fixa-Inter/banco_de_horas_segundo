@@ -57,7 +57,7 @@ export function IssuesPanel() {
     <section>
       <SectionHeader
         title="Issues e propriedades"
-        description="Issues da Fixai-Inter filtradas por Ano = 2° Ano."
+        description="Issues da Fixa-Inter filtradas por Ano = 2° Ano."
       />
 
       <div className="stat-grid" style={{ marginBottom: 24 }}>

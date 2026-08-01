@@ -63,7 +63,7 @@ export function OverviewPanel({ members }: OverviewPanelProps) {
   if (!metrics) {
     return (
       <section>
-        <SectionHeader title="Visão geral" description="Resumo das métricas da organização Fixai-Inter." />
+        <SectionHeader title="Visão geral" description="Resumo das métricas da organização Fixa-Inter." />
         <div className="card">
           <p>Faça login com GitHub para carregar os dados.</p>
         </div>
