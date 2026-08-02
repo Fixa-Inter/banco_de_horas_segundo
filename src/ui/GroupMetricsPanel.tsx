@@ -54,7 +54,7 @@ export function GroupMetricsPanel() {
     <section>
       <SectionHeader
         title="Métricas por grupo"
-        description="Análise de sprint, conclusão e retrabalho da Fixai-Inter."
+        description="Análise de sprint, conclusão e retrabalho da Fixa-Inter."
       />
 
       <div className="stat-grid" style={{ marginBottom: 24 }}>

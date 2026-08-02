@@ -440,7 +440,7 @@ export class GitHubDataService {
   }
 
   async getMetrics(owner: string, memberLogins: string[] = []): Promise<GitHubMetrics | null> {
-    const organization = 'Fixai-Inter';
+    const organization = 'Fixa-Inter';
 
     const [allIssues, allPRs] = await Promise.all([
       this.fetchPaginatedIssues(organization),

@@ -89,7 +89,7 @@ export function MemberMetricsPanel({ members }: MemberMetricsPanelProps) {
     <section>
       <SectionHeader
         title="Métricas por integrante"
-        description="Indicadores de horas, tarefas, comentários e participação na Fixai-Inter."
+        description="Indicadores de horas, tarefas, comentários e participação na Fixa-Inter."
       />
 
       <div className="member-list">

@@ -10,7 +10,7 @@ import { GroupMetricsPanel } from './ui/GroupMetricsPanel';
 import { IssuesPanel } from './ui/IssuesPanel';
 import './styles.css';
 
-const ORGANIZATION = 'Fixai-Inter';
+const ORGANIZATION = 'Fixa-Inter';
 
 const members = [
   { login: 'LorenzoOliveira-git', name: 'Lorenzo Lima de Oliveira' },
